@@ -1,0 +1,6 @@
+void main(void)
+{
+	uint foo;
+	
+	return 0;
+}
