@@ -1,6 +1,6 @@
 void main(void)
 {
-	int foo;
+	uint foo;
 	
 	return 0;
 }
