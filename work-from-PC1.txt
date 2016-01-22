@@ -1,6 +1,7 @@
 void main(void)
 {
 	int foo;
+	uint bas;
 	
 	return 0;
 }
